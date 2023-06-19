@@ -1,3 +1,1 @@
-<p align="center">
-    <img src = "https://github.com/AlexCairo/AlexCairo/assets/110007148/879bd68c-a6a1-4ea5-94cd-3671a1aa1e9b" /> Hola, Me llamo Alexander Cairo
-</p>
+![Alexander Cairo](https://github.com/AlexCairo/plantilla-web-app/assets/110007148/8bf4252f-15ad-415f-8eff-aa9af956a182)
