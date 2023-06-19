@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/AlexCairo/AlexCairo/assets/110007148/f83544cf-af74-4677-b41d-a9683ad7526f" alt="mbanner">
+  <img src="https://github.com/AlexCairo/Proyectos-MERN/assets/110007148/232d5300-f0a6-41a8-a282-9bbc3d8a80d1" alt="mi-banner">
 </p>
